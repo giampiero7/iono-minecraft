@@ -1,0 +1,10 @@
+name: IonoPlugin
+author: Giampiero
+main: io.github.giampiero7.bukkit.iono.IonoPlugin
+
+commands:
+    relay:
+        description: Switch iono's ralay
+        usage: /<command> [relay_number] [on|off]
+
+version: 0.0.1
